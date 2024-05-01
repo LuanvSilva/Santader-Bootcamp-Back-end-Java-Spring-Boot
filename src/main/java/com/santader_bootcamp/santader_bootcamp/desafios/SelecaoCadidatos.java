@@ -55,6 +55,8 @@ public class SelecaoCadidatos {
         else{
             System.out.println("Não ligar para o candidato");
         }
+
+        
     }
 
 
