@@ -2,7 +2,6 @@ package com.santader_bootcamp.santader_bootcamp.desafios;
 
 import java.util.ArrayList;
 
-import org.hibernate.mapping.List;
 
 public class SelecaoCadidatos {
     
